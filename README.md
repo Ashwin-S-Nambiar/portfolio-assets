@@ -1,2 +1,2 @@
 # portfolio-assets
-Repo to store image assets for my Portfolio Projects to be used as a CDN.
+Repository for storing the image assets of my Portfolio Projects to use it for **jsdelivr** CDN.
