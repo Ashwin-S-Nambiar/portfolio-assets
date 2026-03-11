@@ -1,6 +1,6 @@
 # portfolio-assets
 
-This repository serves as the static asset store for [ashwin.co.in](https://ashwin.co.in), a personal portfolio website. All assets are served via the [jsDelivr](https://www.jsdelivr.com/) CDN, which provides fast and reliable delivery by pulling directly from this GitHub repository.
+This repository serves as the static asset store for [ashwin.co.in](https://ashwin.co.in), my personal portfolio website. All assets are served via the [jsDelivr](https://www.jsdelivr.com/) CDN, which provides fast and reliable delivery by pulling directly from this GitHub repository.
 
 ## CDN Usage
 
